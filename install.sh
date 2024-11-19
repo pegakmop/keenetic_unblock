@@ -20,4 +20,4 @@ echo "Starting cron and script itself"
 /bin/sh /opt/etc/cron.5mins/unblock.sh
 /opt/etc/init.d/S10cron start
 
-echo "DONE"
+echo "DONE. EXIT INSTALLER ✅"
