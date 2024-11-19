@@ -26,7 +26,7 @@
 ## Установка и работа
 
 * Подключитесь к роутеру по ssh и зайдите в shell
-* Выполните `curl -s https://raw.githubusercontent.com/zimarev/keenetic_unblock/master/install.sh | sh`
+* Выполните `curl -s https://raw.githubusercontent.com/pegakmop/keenetic_unblock/master/install.sh | sh`
   * Можно также скачать скрипт и исправить директорию для хранения файлов или интерфейс подключения на подходящий вам --
     в моём случае это Wireguard0
 * Добавьте нужные домены для перенаправления в `/storage/unblocker/unblock.txt`
